@@ -1,0 +1,6 @@
+{
+  "name": "Salim",
+  "description": "Offline on-device music player with real local audio scanning, Media3 playback engine, Room persistence, and Apple-grade craft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
